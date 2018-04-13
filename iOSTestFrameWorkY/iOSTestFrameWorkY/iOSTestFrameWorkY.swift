@@ -8,7 +8,7 @@
 import Foundation
 public class iOSTestFrameWorkY: NSObject {
     public func iOSTestFrameWorkYMethod() {
-        print("iOSTestFrameWorkY().iOSTestFrameWorkYMethod is called !! version 2")
+        print("iOSTestFrameWorkY().iOSTestFrameWorkYMethod is called !! version 3")
     }
 }
 
